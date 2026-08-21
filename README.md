@@ -48,6 +48,16 @@ Repositório criado para reunir os projetos de dashboards desenvolvidos durante 
 ![Dashboard da Opuline](/Projeto_Opuline/img/TelaVendas_Opuline.png)
 
 
+### Dash Livraria
+
+* Foco em medidas e cálculos em DAX
+* Contexto de filtro x contexto de linha
+* CALCULATE e controle de filtros
+* ALL — desconsiderando filtros
+* Tabela calendário e relacionamentos
+* Análises temporais com DAX
+
+![Dashboard da Opuline](/Projeto_Livraria/ProjetoLivraria.png)
 
 > 🚀 Novos projetos serão adicionados conforme avanço nos estudos.
 
